@@ -1,6 +1,6 @@
 {
   "name": "@griest/istanbul-api",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "High level API for istanbul features",
   "main": "index.js",
   "scripts": {
