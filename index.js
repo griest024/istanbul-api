@@ -64,4 +64,4 @@ function camelize(word) {
         module.exports[prop] = require('istanbul-' + mod);
 });
 
-module.exports.reportsImpl = require('istanbul-reports');
+module.exports.reportsImpl = require('@griest/istanbul-reports');
